@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-ts",
-  "description": "A TypeScript starter for Gatsby that includes all you need to build amazing projects",
+  "name": "gatsby-starter-typescript",
+  "description": "",
   "version": "1.0.0",
   "private": true,
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (https://joaopedro.dev)",
+  "author": "Abderrahmen Hanafi <19hanafi93@gmail.com>",
   "license": "MIT",
   "keywords": [
     "gatsby",
