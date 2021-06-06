@@ -57,4 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ---
 
-Made with ♥ by João Pedro Schmitz
+Cloned from João Pedro Schmitz, Maintained by Abderrahmen Hanafi
